@@ -1,0 +1,15 @@
+cmu
+columbia
+cornell
+gatech
+harvard
+mit
+neu
+princeton
+stanford
+ucberkeley
+ucla
+uiuc
+upenn
+utexas
+washington
