@@ -9,3 +9,6 @@ do
 	pdflatex $STUDENT\_$i.tex
 	pdflatex $STUDENT\_$i.tex
 done
+
+
+rm -f *.log *.aux *~
